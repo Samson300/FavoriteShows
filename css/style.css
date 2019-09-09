@@ -37,3 +37,12 @@ h2{
 footer{
     text-align: center;
 }
+
+
+@media(max-width: 768px){
+    #boxes .box{
+            float:none;
+            text-align: center;
+            width:100%;
+    }
+}
