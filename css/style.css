@@ -8,12 +8,15 @@ header ul{
     margin: 0;
     padding:0;
     position: fixed;
+    background-color:darkgray;
+    width: 130px;
 }
 
-header li{
+header li, a{
     display: block;
     padding:20px;
-
+    color: white;
+    text-align: center;
 }
 
 h1{
