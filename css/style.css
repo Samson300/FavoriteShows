@@ -7,10 +7,11 @@ header ul{
     list-style-type: none;
     margin: 0;
     padding:0;
+    position: fixed;
 }
 
 header li{
-    display: inline;
+    display: block;
     padding:20px;
 
 }
